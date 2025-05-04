@@ -1,11 +1,13 @@
-const bingoItemMap = {
+{
+  "bingoItemMap": {
     "§5§o§fBingo Talisman": "BINGO_TALISMAN",
     "§5§o§aBingo Ring": "BINGO_RING",
     "§5§o§9Bingo Artifact": "BINGO_ARTIFACT"
-};
-const soulboundItems = [
+  },
+  "soulboundItems": [
     "§fBingo Display",
     "§aBonzo Statue",
     "§5Golden Dante Statue",
     "§5Ditto Skin"
-];
+  ]
+}
